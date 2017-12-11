@@ -7,3 +7,5 @@ bin/*
 __history/
 *.astcache
 build/*
+*.cbp
+logs/*.log
